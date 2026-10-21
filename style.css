@@ -150,3 +150,20 @@ html, body {
     margin-top: 24px;
     box-sizing: border-box;
 }
+
+.about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about p {
+    width: 100%;
+    padding: 25px 5%;
+    font-family: 'Geist', serif, bold;
+}
+
+.about h1 {
+    width: 100%;
+    padding: 25px 5%;
+    font-family: 'Retrogade', serif;
+}
